@@ -34,7 +34,7 @@
 * [Discord](https://discord.gg/4gpPtgfj)
 
 ---------
-### Daily/Scrum Meetings
+### Daily Scrum Meetings
 * [Drive](https://drive.google.com/drive/folders/1fBxJKgH3mVxuhM3bcjNCiatwNsV_DA1i?usp=sharing)
 ---------
 ### Roles
