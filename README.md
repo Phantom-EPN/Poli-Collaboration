@@ -7,6 +7,7 @@
 * [Objetivo](#objetivo)
 * [Fundadores](#fundadores)
 * [Comunicación](#comunicación)
+* [Daily/Scrum Meetings](#meetings)
 * [Gestión del proyecto](#gestión-del-proyecto)
 * [Roles](#roles)
 * [Etiquetas](#etiquetas)
@@ -33,7 +34,8 @@
 * [Discord](https://discord.gg/4gpPtgfj)
 
 
-
+### Daily/Scrum Meetings
+* Drive(https://drive.google.com/drive/folders/1fBxJKgH3mVxuhM3bcjNCiatwNsV_DA1i?usp=sharing)
 ### Roles
 ---------
 * Scrum Master
