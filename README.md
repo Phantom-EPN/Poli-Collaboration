@@ -1,27 +1,68 @@
-# PoliCollaborationCliente
+## Poli Collaboration
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
+## Tabla de contenido
+=========================
 
-## Development server
+* [Objetivo](#objetivo)
+* [Fundadores](#fundadores)
+* [Comunicación](#comunicación)
+* [Gestión del proyecto](#gestión-del-proyecto)
+* [Roles](#roles)
+* [Licencia](#licencia)
+* [Repositorio](#repositorio)
+* [Framework](#framework)
+* [Lenguaje](#lenguaje)
+* [Base de datos](#base)
+* [Componentes](#componentes)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Objetivo
+---------
+* Crear un foro en donde los miembros de la comunidad estudiantil y profesional puedan encontrar un espacio donde se puedan expresar
 
-## Code scaffolding
+### Fundadores
+---------
+* Amaguaña Christia
+* Andaluz Esteban
+* Paredes Ricardo
+* Soria Francis
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Comunicación
+---------
+* [Discord](https://discord.gg/c3bH2Yah)
 
-## Build
+---------
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Gestión del proyecto
+* Este proyecto se desarrollará bajo la metodología scrum para ello se contará con un enlace a un repositorio en donde se podrá visualizar el pogreso del proyecto.
+* [Drive](https://drive.google.com/drive/folders/1fBxJKgH3mVxuhM3bcjNCiatwNsV_DA1i?usp=sharing)
+ 
+### Roles
+---------
+* Equipo
+### Licencia  
+---------
+* GPLV3
 
-## Running unit tests
+### Repositorio  
+---------
+* GitHUB 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+### Framework 
+---------
+* Angular  
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Lenguaje
+---------
+* Javascript 
+* TypeScript
+* CSS 
 
-## Further help
+### Base de Datos 
+ ---------
+* MongoDB
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---------
+### Componentes
+* ENV
+* Node.js
