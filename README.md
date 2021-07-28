@@ -1,83 +1,27 @@
+# PoliCollaborationCliente
 
-## Poli-Collaboration
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
-## Tabla de contenido
-=========================
+## Development server
 
-* [Objetivo](#objetivo)
-* [Fundadores](#fundadores)
-* [Comunicación](#comunicación)
-* [Daily Scrum Meetings](#daily-scrum-meetings)
-* [Gestión del proyecto](#gestión-del-proyecto)
-* [Roles](#roles)
-* [Etiquetas](#etiquetas)
-* [Estrategia de versionamiento](#estrategia-de-versionamiento)
-* [Licencia](#licencia)
-* [Repositorio](#repositorio)
-* [Framework](#framework)
-* [Lenguaje](#lenguaje)
-* [Base de datos](#base)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-### Objetivo
----------
-* Crear un una aplicación web en donde los estudiantes politécnicos puedan expresarse y conocer más sobre su universidad.
+## Code scaffolding
 
-### Creadores
----------
-* Amaguaña Christian
-* Andaluz Esteban
-* Paredes Ricardo
-* Soria Francis 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-### Comunicación
----------
-* [Discord](https://discord.gg/4gpPtgfj)
+## Build
 
----------
-### Daily Scrum Meetings
-* [Drive](https://drive.google.com/drive/folders/1fBxJKgH3mVxuhM3bcjNCiatwNsV_DA1i?usp=sharing)
----------
-### Roles
----------
-* Scrum Master
-* Product Owner
-* Desarrolladores
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Running unit tests
 
-## Etiquetas
----------
-* Bug
-* Desarrollo
-* Documentacion
-* Duplicado
-* Pripridad alta
-* Prioridad baja
-* Prioridad media
-* Pruebas
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-### Estrategia de versionamiento
----------
-En el proyecto de Education4All se utilizará las versiones por npumero mediante 3 números X.Y.Z los cuales indicarán lo siguiente:
-* X es la versión mayor e indica la versión principal del software
-* Y es la versión menor e indica las nuevas funcionalidades
-* Z es la revisión e indica que se realizó una revisión del código por algún fallo
+## Running end-to-end tests
 
-### Repositorio  
----------
-* GitHUB 
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Further help
 
-### Framework 
----------
-* Angular  
-
-### Lenguaje
----------
-* Javascript  
-* HTML
-
-### Base de Datos 
- ---------
-* MongoDB
-
----------
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
