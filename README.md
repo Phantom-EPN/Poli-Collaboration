@@ -30,8 +30,6 @@
 ---------
 * [Discord](https://discord.gg/c3bH2Yah)
 
----------
-
 ### Gestión del proyecto
 * Este proyecto se desarrollará bajo la metodología scrum para ello se contará con un enlace a un repositorio en donde se podrá visualizar el pogreso del proyecto.
 * [Drive](https://drive.google.com/drive/folders/1fBxJKgH3mVxuhM3bcjNCiatwNsV_DA1i?usp=sharing)
