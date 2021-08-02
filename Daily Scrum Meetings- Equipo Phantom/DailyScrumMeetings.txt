@@ -1,0 +1,14 @@
+Dialy Scrum Meetings
+
+Las reuniones diarias del equipo phantom se realizará en el siguiente espacio:
+
+Discord: https://discord.gg/WUNG4uhN
+Horario: 9:30 p.m.
+
+En donde se hablará sobre:
+
+¿Qué hice ayer para ayudar a lograr el sprint Goal ?
+
+¿Qué voy a hacer mañana para ayudar a lograr el Sprint Goal?
+
+¿Veo algún impedimento que evite que el resto de developers o yo logremos el Sprint Goal? 
