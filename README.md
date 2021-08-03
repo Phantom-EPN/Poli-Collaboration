@@ -4,11 +4,11 @@
 ## Tabla de contenido
 =========================
 
-* [Herramienta de gestión para el desarrollo](#herramienta_de_gestión_para_el_desarrollo)
-* [Nombre del ambiente de desarrollo](#nombre_del_ambiente_de_desarrollo)
+* [Herramienta de gestión para el desarrollo](#herramienta-de-gestión-para-el-desarrollo)
+* [Nombre del ambiente de desarrollo](#nombre-del-ambiente-de-desarrollo)
 * [Framework](#framework)
-* [Lenguajes de programación](#lenguajes_de_programacion)
-* [Gestor de base de datos](#gestor_de_base_de_datos)
+* [Lenguajes de programación](#lenguajes-de-programación)
+* [Gestor de base de datos](#gestor-de-base-de-datos)
 * [Componentes](#componentes)
 ### Herramienta de gestión para el desarrollo
 ---------
